@@ -1,8 +1,8 @@
 # Figma Web Copy Assistant
 
-**One-click copy web pages to editable Figma designs.**
+**一键复制网页转换为可编辑的 Figma 设计稿，支持任何网站，无需Figma插件。**
 
-Supports any website, no Figma plugin needed, completely free to use.
+**One-click copy web pages to editable Figma designs.** Supports any website, no Figma plugin needed, completely free to use.
 
 ## Features
 
@@ -19,7 +19,7 @@ Supports any website, no Figma plugin needed, completely free to use.
 
 1.  **Clone the repository** or download the source code.
     ```bash
-    git clone https://github.com/yourusername/figma-web-copy-assistant.git
+    git clone https://github.com/zweioio/figma-web-copy-assistant.git
     ```
 2.  Open Google Chrome and navigate to `chrome://extensions/`.
 3.  Enable **Developer mode** in the top right corner.
