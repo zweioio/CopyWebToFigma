@@ -1,7 +1,7 @@
 
 {
   "appName": {
-    "message": "Copy web to Figma"
+    "message": "Copy web to Figma - 复制为可编辑设计稿，无需安装Figma插件"
   },
   "appDesc": {
     "message": "一键复制网页转换为可编辑的 Figma 设计稿，支持任何网站，无需Figma插件，免费使用"
