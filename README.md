@@ -11,6 +11,8 @@
 
 Supports any website, no Figma plugin needed, completely free to use.
 
+👉 **[Install from Chrome Web Store](https://chromewebstore.google.com/detail/paomhndjjomojpmclhjnehoelclagpfp?utm_source=item-share-cb)**
+
 ### Features
 
 - **One-Click Capture**: Easily convert any web page into a Figma-ready design.
@@ -24,6 +26,11 @@ Supports any website, no Figma plugin needed, completely free to use.
 
 ### Installation
 
+**Option 1: Chrome Web Store (Recommended)**
+1.  Visit the [Chrome Web Store page](https://chromewebstore.google.com/detail/paomhndjjomojpmclhjnehoelclagpfp?utm_source=item-share-cb).
+2.  Click **Add to Chrome**.
+
+**Option 2: Manual Installation (For Developers)**
 1.  **Clone the repository** or download the source code.
     ```bash
     git clone https://github.com/zweioio/figma-web-copy-assistant.git
@@ -50,6 +57,8 @@ Supports any website, no Figma plugin needed, completely free to use.
 
 支持任何网站，无需安装 Figma 插件，完全免费使用。
 
+👉 **[前往 Chrome 网上应用店安装](https://chromewebstore.google.com/detail/paomhndjjomojpmclhjnehoelclagpfp?utm_source=item-share-cb)**
+
 ### 功能特点
 
 - **一键抓取**：轻松将任何网页转换为可直接在 Figma 中编辑的设计稿。
@@ -63,6 +72,11 @@ Supports any website, no Figma plugin needed, completely free to use.
 
 ### 安装步骤
 
+**方式一：Chrome 网上应用店（推荐）**
+1.  访问 [Chrome 应用商店页面](https://chromewebstore.google.com/detail/paomhndjjomojpmclhjnehoelclagpfp?utm_source=item-share-cb)。
+2.  点击 **添加至 Chrome** 按钮即可。
+
+**方式二：手动安装（开发者模式）**
 1.  **克隆仓库** 或直接下载源代码。
     ```bash
     git clone https://github.com/zweioio/figma-web-copy-assistant.git
